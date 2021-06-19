@@ -1,5 +1,3 @@
-<h1 align='center'> Hi 👋, I'm Gündoğdu Yakıcı </h1>
-
 <p align='center'>
   I live in Mersin and work as a <b>Freelancer</b>.
 </p>
