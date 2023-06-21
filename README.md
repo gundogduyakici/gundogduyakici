@@ -1,5 +1,5 @@
 <p align='center'>
-  I live in Mersin and work as a <b>Freelancer</b>.
+  I live in Germany and work as a <b>Full Stack Developer</b>.
 </p>
 
 <p align='center'>
