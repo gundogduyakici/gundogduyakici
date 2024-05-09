@@ -28,12 +28,12 @@
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React.js%20-%2302569B.svg?&style=for-the-badge&logo=React&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
 
 <h4>🌱 I'm currently learning...</h4>
-<p >
-  <img src="https://img.shields.io/badge/React.js%20-%2302569B.svg?&style=for-the-badge&logo=React&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<p >  
   <img src="https://img.shields.io/badge/vue.js%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" />
 </p>
